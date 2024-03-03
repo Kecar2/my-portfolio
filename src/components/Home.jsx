@@ -34,14 +34,6 @@ const Home = () => {
             </Link>
           </div>
         </div>
-
-        <div>
-          <img
-            src={HeroImage}
-            alt="my profile"
-            className="rounded-2xl mx-auto w-1/2 xs:w-full"
-          />
-        </div>
       </div>
     </div>
   );
